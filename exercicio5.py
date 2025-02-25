@@ -11,13 +11,6 @@ Problema: calcule o salario de um professor horista na Universidade XYZ. O progr
 
 hora_aula = 40
 
-horas_trabalhadas = 0
-
-salario_bruto = hora_aula * horas_trabalhadas
-
-salario_liquido = salario_bruto * 7/10
-
-desconto = salario_bruto * 3 / 10
     
 
 # Entrada de dados
@@ -35,6 +28,12 @@ desconto = salario_bruto * 3 / 10
 
 
 # Processamento de dados
+
+salario_bruto = hora_aula * horas_trabalhadas
+
+salario_liquido = salario_bruto * 7/10
+
+desconto = salario_bruto * 3 / 10
 
 
 #Saida de dados
