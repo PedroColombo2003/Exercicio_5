@@ -1,5 +1,5 @@
 """
-Titulo: Exercicio 4
+Titulo: Exercicio 5
 Autor: Pedro Colombo
 Data: 25/02/2025
 Versão: 0.0.1
@@ -16,16 +16,7 @@ hora_aula = 40
 # Entrada de dados
 
 horas_trabalhadas = int(input("Qual foi a quantidade de horas que você trabalhou? "))
-
-hora_aula = 40
-
-salario_bruto = hora_aula * horas_trabalhadas
-
-salario_liquido = salario_bruto * 7/10
-
-desconto = salario_bruto * 3 / 10
                               
-
 
 # Processamento de dados
 
